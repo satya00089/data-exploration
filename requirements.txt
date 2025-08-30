@@ -1,0 +1,47 @@
+# Core Data Science Stack
+pandas>=2.0.0
+numpy>=1.24.0
+jupyter>=1.0.0
+notebook>=6.5.0  # For classic Jupyter notebooks
+ipykernel>=6.22.0  # Required for Jupyter
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0  # Interactive visualizations
+
+# Data Manipulation & I/O
+openpyxl>=3.1.0  # Excel file support
+xlrd>=2.0.0  # Legacy Excel support
+pyarrow>=12.0.0  # Parquet file support
+lxml>=4.9.0  # XML/HTML parsing
+html5lib>=1.1  # HTML parsing fallback
+beautifulsoup4>=4.12.0  # Web scraping
+
+# Machine Learning (Future-ready)
+scikit-learn>=1.3.0
+xgboost>=1.7.0  # Gradient boosting
+lightgbm>=3.3.0  # Gradient boosting
+catboost>=1.2.0  # Gradient boosting
+
+# Database Connectivity
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0  # PostgreSQL
+pymongo>=4.3.0  # MongoDB
+redis>=4.5.0  # Redis
+
+# Web & API
+requests>=2.31.0
+kaggle>=1.5.0  # Kaggle API
+tqdm>=4.65.0  # Progress bars
+
+# Utilities
+python-dotenv>=1.0.0  # Environment variables
+pytest>=7.3.0  # Testing
+black>=23.0.0  # Code formatting
+flake8>=6.0.0  # Linting
+
+# Jupyter Extensions
+ipywidgets>=8.0.0  # Interactive widgets
+jupyterlab>=3.6.0  # Optional: JupyterLab interface
+voila>=0.5.0  # Dashboard creation
