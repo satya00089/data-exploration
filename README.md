@@ -1,6 +1,6 @@
-# pandas-data-exploration
+# data-exploration
 
-> Practicing pandas data manipulation using datasets
+> Practicing data manipulation using datasets
 
 ## 📚 Learning Path
 1. **Basics** - Loading, inspecting, and cleaning data
